@@ -1,4 +1,4 @@
-# It's litterally this easy.  
+# It's litterally this easy.   Centos 7
 
 
 yum -y install wget
